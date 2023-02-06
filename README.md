@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adorableco
 - 👀 I major in Computer Science & Engineering
-- 🌱 I’m currently learning Data Structure (in C)
+- 🌱 I’m currently learning Spring framework & Algorithm.
 
 
 <!---
