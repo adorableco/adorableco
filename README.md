@@ -1,5 +1,8 @@
 <a href="https://goodcodebetter.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-fb6737?style=flat&logo=tistory&logoColor=ffffff"/></a>
 
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adorableco&show_icons=true&theme=radical)
+
 - 👋 Hi, I’m @adorableco
 - 👀 I major in Computer Science & Engineering
 - 🌱 I’m currently learning Spring framework & Algorithm.
