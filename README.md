@@ -4,7 +4,7 @@
 
 ![Seyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=adorableco&show_icons=true&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=adorableco)](https://solved.ac/adorableco/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adorableco&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adorableco&layout=donut-vertical)](https://github.com/adorableco/github-readme-stats)
 
 - 👋 Hi, I’m @adorableco
 - 👀 I major in Computer Science & Engineering
