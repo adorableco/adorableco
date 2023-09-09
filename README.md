@@ -3,6 +3,8 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adorableco&show_icons=true&theme=dracula)
 
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=adorableco)](https://solved.ac/adorableco/)
+
 - 👋 Hi, I’m @adorableco
 - 👀 I major in Computer Science & Engineering
 - 🌱 I’m currently learning Spring framework & Algorithm.
