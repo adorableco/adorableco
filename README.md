@@ -1,4 +1,4 @@
-<a href="https://goodcodebetter.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-fb6737?style=flat-square&logo=tistory&logoColor=000000"/></a>
+<a href="https://goodcodebetter.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-fb6737?style=flat&logo=tistory&logoColor=ffffff"/></a>
 
 - 👋 Hi, I’m @adorableco
 - 👀 I major in Computer Science & Engineering
