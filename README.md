@@ -1,4 +1,4 @@
-#Seyeon Park 👩🏻‍💻
+## Seyeon Park 👩🏻‍💻
 <a href="https://goodcodebetter.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-fb6737?style=flat&logo=tistory&logoColor=ffffff"/></a>
 
 
