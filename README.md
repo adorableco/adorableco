@@ -24,7 +24,7 @@
 
 - 👋 Hi, I’m @adorableco
 - 👀 I major in Computer Science & Engineering
-- 🌱 I’m currently learning Spring framework & Algorithm.
+- 🌱 I’m currently learning React & React Native
 
 
 <!---
