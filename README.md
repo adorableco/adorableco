@@ -2,7 +2,7 @@
 
 ####  📚 Study Log : <a href="https://goodcodebetter.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-fb6737?style=flat&logo=tistory&logoColor=ffffff"/></a> <a href="https://velog.io/@adorableco"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&LogoColor=white"/></a>
 
-#### 🌀 Velog로 이전 예정
+##### 🌀 Velog로 이전 예정
 
 
 ![Seyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=adorableco&show_icons=true&theme=dracula)
