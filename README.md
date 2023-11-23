@@ -1,6 +1,7 @@
 ## Seyeon Park 👩🏻‍💻
 
 ####  📚 Study Log : <a href="https://goodcodebetter.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-fb6737?style=flat&logo=tistory&logoColor=ffffff"/></a> <a href="https://velog.io/@adorableco"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&LogoColor=white"/></a>
+####  📚 Selfmade Develog : <a href="https://adorableco.github.io" target="_blank"><img src="https://img.shields.io/badge/Pelican-14A0C4?style=flat&logo=Adorableco's Develog&logoColor=fff"/></a>
 
 ##### 🌀 Velog로 이전 예정
 
