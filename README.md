@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeAuto&height=300&section=header&text=Seyeon%20Park👩🏻‍💻&desc=Learning%20by%20Coding&fontSize=80)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadorableco%2Fhit-counter&count_bg=%23E6CDFF&title_bg=%236E6E6E&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ###  📚 Study Log
 
